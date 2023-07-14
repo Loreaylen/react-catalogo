@@ -1,14 +1,8 @@
-.itemCatalogo {
-  width: 315px;
-  height: auto;
+.imagenCatalogo {
+  border-radius: 5px;
 }
 
-.contenedorImagen {
-  width: 100%;
-  height: auto;
-}
-
-.contenedorImagen img {
-  width: 100%;
-  height: auto;
+.imagenCatalogo img {
+  object-fit: cover;
+  border-radius: 5px;
 }
